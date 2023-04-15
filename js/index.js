@@ -21,7 +21,7 @@ $(function ()
 
     socialIcons.css({
         position:'relative',
-        zIndex:10
+        zIndex:12
     });
 
     socialIcons.on('click', function() {
